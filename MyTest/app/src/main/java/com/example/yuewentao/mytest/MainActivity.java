@@ -1,5 +1,6 @@
 package com.example.yuewentao.mytest;
 
+import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
@@ -30,6 +31,6 @@ public class MainActivity extends AppCompatActivity {
         TextView t=findViewById(R.id.ttt);
         Toast.makeText(this, "sdfjasdfhx新加的Toast", Toast.LENGTH_SHORT).show();
         t.setText("水电费和你家啥地方呢");
-
+        t.setTextColor(Color.BLACK);
     }
 }
