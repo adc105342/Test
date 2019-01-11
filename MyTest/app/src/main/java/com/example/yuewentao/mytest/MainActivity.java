@@ -33,14 +33,9 @@ public class MainActivity extends AppCompatActivity {
         t.setText("水电费和你家啥地方呢");
         t.setTextColor(Color.BLACK);
         t.setText("新提交");
-
-
         t.setText("新提交66666");
-
         t.setText("新提交1111");
         t.setText("新提交2222");
-
-
 
     }
 }
