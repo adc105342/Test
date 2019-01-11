@@ -34,10 +34,13 @@ public class MainActivity extends AppCompatActivity {
         t.setTextColor(Color.BLACK);
         t.setText("新提交");
 
+
         t.setText("新提交66666");
 
         t.setText("新提交1111");
         t.setText("新提交2222");
+
+
 
     }
 }
