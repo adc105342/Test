@@ -32,5 +32,6 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "sdfjasdfhx新加的Toast", Toast.LENGTH_SHORT).show();
         t.setText("水电费和你家啥地方呢");
         t.setTextColor(Color.BLACK);
+        t.setText("新提交");
     }
 }
